@@ -109,7 +109,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    background-color: #f4f4fd;
 }
 
 .heading {
@@ -121,6 +120,14 @@ a {
     text-transform: capitalize;
     background-color: #f4f4fd;
     color: #2e2f42;
+}
+
+.the-third-section {
+    background-color: #f4f4fd;
+}
+
+.list-item {
+    background-color: #ffffff;
 }
 
 .page-footer {
